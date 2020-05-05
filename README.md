@@ -1,1 +1,1 @@
-#React-Responsive-Carousel
+<b>#React-Responsive-Carousel</b>
